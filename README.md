@@ -16,3 +16,7 @@ Table de banque :
 
 Table de transactions : 
 ![tabletransactions](transactiontable.png)
+
+Recherche de clients : 
+![tabletransactions](recherche.png)
+
