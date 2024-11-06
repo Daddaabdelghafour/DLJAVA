@@ -1,3 +1,7 @@
+Petit vidéo de démonstration : 
+[vid](Project recording.mp4)
+
+
 Partie UI :
 ![image1](j1.png)
 ![image2](j2.png)
