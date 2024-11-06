@@ -21,6 +21,6 @@ Table de banque :
 Table de transactions : 
 ![tabletransactions](transactiontable.png)
 
-Recherche de clients : 
+fonctionnalité de recherche : 
 ![tabletransactions](recherche.png)
 
