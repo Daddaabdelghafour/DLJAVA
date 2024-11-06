@@ -1,5 +1,4 @@
-Petit vidéo de démonstration : 
-[vid](vidproject.mp4)
+
 
 
 Partie UI :
