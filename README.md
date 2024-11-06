@@ -1,6 +1,6 @@
 
 
-vous trouverez monsieur un petit vidéo de démo avec les fichier en dessus .
+vous trouverez monsieur un petit vidéo de démo avec les fichiers en dessus .
 
 Partie UI :
 ![image1](j1.png)
