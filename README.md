@@ -1,5 +1,5 @@
 Petit vidéo de démonstration : 
-[vid](Project recording.mp4)
+[vid](rec.mp4)
 
 
 Partie UI :
